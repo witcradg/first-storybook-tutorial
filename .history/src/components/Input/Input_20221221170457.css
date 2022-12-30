@@ -1,0 +1,23 @@
+.input {
+    padding: 10px;
+    margin: 10px 0;
+    border: 2px solid #aaa;
+    box-shadow: 0 0 15px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    width: 100%;
+}
+
+.small {
+    height: 2rem;
+    font-size: 0.875rem;
+}
+
+.medium {
+    height: 2.5rem;
+    font-size: 1rem;
+}
+
+.large {
+    height: 3rem;
+    font-size: 1.25rem;
+}
